@@ -1,0 +1,40 @@
+# github.com/bitly/go-simplejson v0.5.1
+## explicit; go 1.17
+github.com/bitly/go-simplejson
+# github.com/dlclark/regexp2 v1.11.5
+## explicit; go 1.13
+github.com/dlclark/regexp2
+github.com/dlclark/regexp2/syntax
+# github.com/dop251/goja v0.0.0-20250125213203-5ef83b82af17
+## explicit; go 1.20
+github.com/dop251/goja
+github.com/dop251/goja/ast
+github.com/dop251/goja/file
+github.com/dop251/goja/ftoa
+github.com/dop251/goja/ftoa/internal/fast
+github.com/dop251/goja/parser
+github.com/dop251/goja/token
+github.com/dop251/goja/unistring
+# github.com/go-sourcemap/sourcemap v2.1.4+incompatible
+## explicit
+github.com/go-sourcemap/sourcemap
+github.com/go-sourcemap/sourcemap/internal/base64vlq
+# github.com/google/pprof v0.0.0-20250208200701-d0013a598941
+## explicit; go 1.22
+github.com/google/pprof/profile
+# github.com/kkdai/youtube/v2 v2.10.4
+## explicit; go 1.23.0
+github.com/kkdai/youtube/v2
+# golang.org/x/text v0.22.0
+## explicit; go 1.18
+golang.org/x/text/cases
+golang.org/x/text/collate
+golang.org/x/text/internal
+golang.org/x/text/internal/colltab
+golang.org/x/text/internal/language
+golang.org/x/text/internal/language/compact
+golang.org/x/text/internal/tag
+golang.org/x/text/language
+golang.org/x/text/transform
+golang.org/x/text/unicode/norm
+golang.org/x/text/unicode/rangetable
